@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package s4_a.pkg2;
 
 import java.util.Date;
 

@@ -10,7 +10,6 @@
  * ¿En qué mes se obtuvo la menor cantidad de lluvia?,
  * ¿Cuál es el promedio de lluvia durante el año en la Ciudad de Bogotá?
  */
-package s4_a.pkg2;
 
 import java.util.ArrayList;
 import java.util.Collections;
